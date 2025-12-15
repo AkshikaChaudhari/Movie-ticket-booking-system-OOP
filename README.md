@@ -22,6 +22,10 @@ Users can:
 - Inheritance
 - Polymorphism
 
+## 🖼️ Output Screenshot
+![Output](Output.png)
+
+
 ## 🎓 Course
 Object Oriented Programming (3rd Semester)
 
